@@ -1,2 +1,2 @@
-# shanwhite's portfolio
+# shan's portfolio
 ## a work in progress

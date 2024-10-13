@@ -1,3 +1,4 @@
+/* fonts */
 .qwitcher-grypen-regular {
     font-family: "Qwitcher Grypen", cursive;
     font-weight: 400;
@@ -10,8 +11,25 @@
     font-style: normal;
 }
 
+.karla {
+  font-family: "Karla", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+body {
+    background-color: #fffef9;
+    text-align: center;
+}
+
 h1 {
     font-family: "Qwitcher Grypen", cursive;
     font-weight: 700;
     font-style: normal;
+    font-size: 14vh;
+}
+
+p {
+    font-family: "Karla";
 }
