@@ -1,3 +1,2 @@
-## shanwhite's portfolio
-
-### a work in progress
+# shanwhite's portfolio
+## a work in progress
